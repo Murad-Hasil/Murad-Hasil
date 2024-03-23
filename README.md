@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Murad Hasil</h1>
 <h3 align="center">As an ambitious IT student with a passion for cutting-edge technologies, I am deeply immersed in the transformative world of AI, Web 3.0, and the Metaverse. My academic journey is fueled by a relentless curiosity to understand and leverage the power of artificial intelligence to drive innovation and efficiency in digital spaces.</h3>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad-hasil&label=Profile%20views&color=0e75b6&style=flat" alt="murad-hasil" /> </p>
 
 - 📫 How to reach me **muraadhasil7@gmail.com**
