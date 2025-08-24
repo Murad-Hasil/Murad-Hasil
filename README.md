@@ -12,12 +12,13 @@
 ---
 
 ## 🧑‍💻 About Me  
-I’m a passionate **Web Developer and AI learner** blending modern web technologies with cutting-edge **Agentic AI workflows**.  
+I’m a passionate **Web Developer and AI enthusiast** who loves blending modern web technologies with cutting-edge **Agentic AI workflows** to craft smart, user-focused solutions.  
 Currently:  
-- 🌱 Expanding my expertise in **Python, Agentic AI, and workflow automation (n8n)**  
-- 📚 Student at **GIAIC – Certified Cloud Applied AI Engineering Program**  
-- 💡 Focused on building **AI-driven applications, chatbots, and modern frontend solutions**  
+- 🌱 Sharpening my skills in **Python, Agentic AI, and workflow automation (n8n)**  
+- 📚 Pursuing the **Certified Cloud Applied AI Engineering Program (GIAIC)**  
+- 💡 Exploring the intersection of **frontend development, automation, and AI-powered applications**  
 - 🎯 Preparing for **MCP Level 2** and **Building Effective Agents Level 2** certifications  
+- 🚀 On a journey to contribute to **open-source projects** and collaborate on **AI-driven web applications**  
 
 ---
 
