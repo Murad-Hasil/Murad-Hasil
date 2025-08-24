@@ -1,7 +1,7 @@
 <!-- Profile README for Murad Hasil (2025 Style) -->
 
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Murad Hasil</h1>
+<h1 align="center">👋 Hi, I'm Mb-Murad Hasil</h1>
 <h3 align="center">🚀 Web Developer | AI Enthusiast | Building the Future of Agentic AI</h3>
 
 <!-- Animated Image Placeholder -->
