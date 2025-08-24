@@ -1,73 +1,84 @@
-<h1 align="center">Hi 👋, I'm Murad Hasil</h1>
-<h3 align="center">Frontend Developer | AI Explorer | Web 3.0 Enthusiast</h3>
+<!-- Profile README for Murad Hasil (2025 Style) -->
 
+<!-- Header Section -->
+<h1 align="center">👋 Hi, I'm Murad Hasil</h1>
+<h3 align="center">🚀 Web Developer | AI Enthusiast | Building the Future of Agentic AI</h3>
+
+<!-- Animated Image Placeholder -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;AI+Python+Learner;Next.js+Specialist;Web+3.0+Explorer;Clean+UI+Lover&center=true&width=500&height=30&color=00F4F4&vCenter=true&pause=1000&size=20" />
-</p>
-
-<!-- 🎬 Coding GIF (instead of Lottie) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
----
-
-## 🧠 About Me
-
-🎯 I'm a **Frontend Developer** passionate about modern UI/UX.  
-🧠 Currently exploring the intersection of **AI** and **Web 3.0**  
-🚀 Goal: To build intelligent, responsive web apps that make life easier and smarter.
-
----
-
-## 🚀 Tech Stack
-
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css)
-![ShadCN](https://img.shields.io/badge/ShadCN-%231A1A1A?style=for-the-badge)
-
-### 🧠 Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-%23FF6F00?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-343434?style=for-the-badge)
-![Web 3.0](https://img.shields.io/badge/Web3.0-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Metaverse](https://img.shields.io/badge/Metaverse-purple?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad-Hasil&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad-Hasil&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Hasil&layout=compact&theme=radical" width="50%" />
+  <img src="https://placeholder.com/animated-coding-ai.png" alt="Coding and AI Animation" width="500"/>
 </p>
 
 ---
 
-## 🌐 Portfolio & Contact
+## 🧑‍💻 About Me  
+I’m a passionate **Web Developer and AI learner** blending modern web technologies with cutting-edge **Agentic AI workflows**.  
+Currently:  
+- 🌱 Expanding my expertise in **Python, Agentic AI, and workflow automation (n8n)**  
+- 📚 Student at **GIAIC – Certified Cloud Applied AI Engineering Program**  
+- 💡 Focused on building **AI-driven applications, chatbots, and modern frontend solutions**  
+- 🎯 Preparing for **MCP Level 2** and **Building Effective Agents Level 2** certifications  
+
+---
+
+## ⚡ Skills & Tools  
 
 <p align="center">
-  <a href="https://muradhasil.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  
+<!-- Web Development -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMS-FF6F00?style=for-the-badge&logo=ghost&logoColor=white"/>
+
+<!-- AI & Automation -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n%20Automation-F05032?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/murad-hasil-9044582b9/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.npmjs.com/~your-npm" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white"/>
   </a>
-  <a href="mailto:mbmuradhasil@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><i>“Building clean interfaces, training smart systems, and exploring future tech.”</i></p>
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
