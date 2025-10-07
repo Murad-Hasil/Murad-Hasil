@@ -58,7 +58,7 @@ Currently:
   <a href="mailto:mbmuradhasil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://your-portfolio-link.com](https://portfolio-nextjs-woad-gamma.vercel.app/#projects)" target="_blank">
+  <a href="https://portfolio-nextjs-woad-gamma.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
@@ -90,4 +90,3 @@ Currently:
 - **MCP Level 2** – Mastering Agentic AI & Model Context Protocol  
 - **Context Prompt Engineering** – Crafting precise and effective prompts  
 - **Advanced Python & Workflow Automation (n8n)**  
-
