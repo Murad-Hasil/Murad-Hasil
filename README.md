@@ -1,8 +1,8 @@
 <!-- Profile README for Murad Hasil (2025 Style) -->
 
 <!-- Header Section -->
-<h1 align="center">👋 Hi, I'm Mb-Murad Hasil</h1>
-<h3 align="center">🚀 Full-stack Web Developer | AI & Agentic AI Enthusiast | Turning Ideas into Smart Apps</h3>
+<h1 align="center">👋 Hi, I'm Murad Hasil</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | AI & Chatbot Developer | Building Interactive, Agentic Experiences</h3>
 
 <!-- Animated Coding/AI Image -->
 <p align="center">
@@ -12,12 +12,14 @@
 ---
 
 ## 🧑‍💻 About Me  
-I’m a **passionate Full-stack Web Developer & AI enthusiast** blending modern web technologies with cutting-edge **Agentic AI workflows**.  
+I’m a **Full-Stack Web Developer & AI Chatbot Developer** passionate about creating modern, interactive, and intelligent web experiences.  
+I specialize in **Next.js, TypeScript, Tailwind CSS**, and API integrations, building apps that combine clean design with real functionality.  
+
 Currently:  
-- 🌱 Sharpening skills in **Python, Agentic AI, GPT, n8n automation**  
-- 📚 Preparing for **MCP Level 2** & **Building Effective Agents Level 2**  
-- 💡 Exploring **frontend, backend, automation, and AI-powered apps**  
-- 🚀 Contributing to **open-source projects** and collaborating on AI-driven web apps  
+- 🌱 Expanding expertise in **AI & Agentic Systems**  
+- ⚡ Exploring **workflow automation** with **n8n**  
+- 💡 Learning advanced **context-handling AI models**  
+- 🚀 Building and sharing **open-source chatbot projects**  
 
 ---
 
@@ -29,7 +31,6 @@ Currently:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radix-ui&logoColor=white"/>
@@ -49,10 +50,44 @@ Currently:
 
 ---
 
+## 🚀 Featured Projects  
+- [**AI Chatbot Demo**](https://ai-chatbot-demo-eight.vercel.app/) – A minimal chatbot built with Next.js, Tailwind CSS, and Gemini API.  
+- [**Portfolio Website**](https://portfolio-nextjs-woad-gamma.vercel.app/) – My personal portfolio showcasing web and AI projects.  
+
+---
+
+## 📊 GitHub Stats & Streaks  
+
+<p align="center">
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Murad-Hasil&show_icons=true&count_private=true&theme=radical" height="160" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Hasil&layout=compact&theme=radical" height="160" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murad-Hasil&theme=radical" alt="GitHub Streak" height="130"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Murad-Hasil&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+## 🎯 Currently Learning  
+- **Advanced AI & Agentic Systems** – Deepening understanding of context-handling and intelligent automation  
+- **Prompt Engineering** – Crafting accurate, adaptive AI prompts  
+- **Automation with n8n** – Building efficient, connected workflows  
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/murad-hasil-9044582b9/" target="_blank">
+  <a href="https://www.linkedin.com/in/muradhasil/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mbmuradhasil@gmail.com">
@@ -62,31 +97,3 @@ Currently:
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats & Streaks  
-
-<p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical" height="160" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" height="130"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
----
-
-## 🎯 Currently Learning  
-- **MCP Level 2** – Mastering Agentic AI & Model Context Protocol  
-- **Context Prompt Engineering** – Crafting precise and effective prompts  
-- **Advanced Python & Workflow Automation (n8n)**  
