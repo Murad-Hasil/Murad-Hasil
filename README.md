@@ -52,7 +52,7 @@ Currently:
 
 ## 🚀 Featured Projects  
 - [**AI Chatbot Demo**](https://ai-chatbot-demo-eight.vercel.app/) – A minimal chatbot built with Next.js, Tailwind CSS, and Gemini API.  
-- [**Portfolio Website**](https://portfolio-nextjs-woad-gamma.vercel.app/) – My personal portfolio showcasing web and AI projects.  
+- [**Portfolio Website**](https://personal-portfolio-nextjs-ebon.vercel.app/) – My personal portfolio showcasing web and AI projects.  
 
 ---
 
@@ -93,7 +93,7 @@ Currently:
   <a href="mailto:mbmuradhasil@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio-nextjs-woad-gamma.vercel.app/" target="_blank">
+  <a href="https://personal-portfolio-nextjs-ebon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
