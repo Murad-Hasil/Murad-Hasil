@@ -2,7 +2,11 @@
 <h3 align="center">AI Automation Engineer & Full-Stack Developer — Karachi, Pakistan</h3>
 
 <p align="center">
-  I build AI systems that run 24/7 — autonomous agents, RAG pipelines, and production-grade web applications.<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00D4FF&center=true&width=600&lines=AI+Automation+Engineer;Full-Stack+Developer;RAG+%26+Autonomous+Agent+Builder;Open+to+Freelance+Worldwide" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  I help businesses save time and cut costs by replacing repetitive work with AI systems that run automatically.<br/>
   Started my AI engineering journey in 2023 through <strong>GIAIC</strong> (Governor's Initiative for AI & Computing).
 </p>
 
@@ -28,7 +32,7 @@
 - **2+ years** building AI systems and full-stack applications
 - Spec-driven development — every project starts with a clear spec before any code is written
 - Currently open to **freelance work** — AI agents, RAG systems, automation, web apps
-- 5+ hackathons completed through **GIAIC**
+- 100% Self-Taught · 5+ Panaversity Hackathons through **GIAIC**
 
 ---
 
