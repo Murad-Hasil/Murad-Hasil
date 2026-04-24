@@ -104,6 +104,15 @@ Docker · Kubernetes · GitHub Actions · Vercel
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murad-Hasil&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Hasil&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" height="165"/>
+</p>
+
+---
+
 ## Contact
 
 - Portfolio: https://murad-hasil-portfolio-v2-xi.vercel.app  
@@ -116,3 +125,4 @@ Docker · Kubernetes · GitHub Actions · Vercel
 <p align="center">
   Open to freelance opportunities — feel free to reach out.
 </p>
+
