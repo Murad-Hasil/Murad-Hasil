@@ -120,8 +120,8 @@ Docker · Kubernetes · Helm · GitHub Actions · Vercel · Hugging Face Spaces
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murad-Hasil&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad-Hasil&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Murad-Hasil&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Murad-Hasil&theme=github_dark" height="165"/>
 </p>
 
 ---
