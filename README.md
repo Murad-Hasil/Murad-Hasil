@@ -128,7 +128,7 @@ Docker · Kubernetes · Helm · GitHub Actions · Vercel · Hugging Face Spaces
 
 ## Contact
 
-- Portfolio: https://murad-hasil-portfolio-v2-xi.vercel.app
+- Portfolio: https://murad-hasil-portfolio.vercel.app
 - LinkedIn: https://www.linkedin.com/in/muradhasil/
 - Fiverr: https://www.fiverr.com/murad_hasil
 - Email: mbmuradhasil@gmail.com
